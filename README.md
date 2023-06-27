@@ -6,4 +6,13 @@ I'm a student starting and building step by step my version of an automated virt
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://icons8.com/icon/108784/javascript">
+<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<br />
+
+#
+
+### 📊 Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkmenacingrbx&show_icons=true&theme=react)
