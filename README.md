@@ -1,6 +1,6 @@
 # 🌘 DarkMenacing
 
-I'm a student starting and building step by step my version of an automated virtual world. All of my coding projects are built from the ground up, from planning and designing all the way to automating work.
+I'm a student starting and building step by step my version of an automated virtual world. All of my coding projects are built from the ground up, from planning and designing all the way to automating work. I usually make personal, open-sourced projects with the intension to show the world my work.
 
 ---
 
