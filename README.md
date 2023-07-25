@@ -19,3 +19,11 @@ I'm a student starting and building step by step my version of an automated virt
 ### 📊 Stats
 
 ![DarkMenacingRBX's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkmenacingrbx&show_icons=true&theme=react)
+
+<details>
+  <summary>
+    <h3>FAQ (Frequently Asked Questions)</h3>
+  </summary>
+  <h3>Q: Why is your name DarkMenacing?</h3>
+  <h2>R: It is my gamer tag.</h2>
+</details>
