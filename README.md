@@ -18,7 +18,8 @@ I'm a student starting and building step by step my version of an automated virt
 
 ### 📊 Stats
 
-![DarkMenacingRBX's GitHub stats](https://github-readme-stats.vercel.app/api?username=dark-menacing&show_icons=true&theme=react)
+![My Stats](https://github-readme-stats.vercel.app/api?username=dark-menacing&theme=prussian&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-menacing&theme=prussian&layout=compact)
 
 <details>
   <summary>
