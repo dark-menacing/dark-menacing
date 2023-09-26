@@ -1,31 +1,43 @@
-# 🌘 DarkMenacing
+# Hi There 👋
+I am DarkMenacing, a front-end web developer. My current interests in technology is Data Science and Automation.
 
-I'm a student starting and building step by step my version of an automated virtual world. All of my coding projects are built from the ground up, from planning and designing all the way to automating work. I usually make personal, open-sourced projects with the intension to show the world my work.
+## Technical Skills
 
----
+### Programming Languages
 
-### 🧰 Languages and Tools
+<a href="https://www.w3schools.com/js/default.asp"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
 
-<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="SASS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="Electron" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+<br/>
+
+#
+
+### Frameworks
+
+<a href="https://nodejs.org/en"><img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/></a>
+<a href="https://www.typescriptlang.org"><img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a>
+<a href="https://kit.svelte.dev"><img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/></a>
+
+<br/>
+
+#
+
+### IDE
+
+<a href="https://code.visualstudio.com"><img align="left" alt="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
+
 <br />
 
 #
 
-### 📊 Stats
+### Others
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=dark-menacing&theme=prussian&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-menacing&theme=prussian&layout=compact)
+<a href="https://git-scm.com"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
+<a href="https://github.com"><img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
 
-<details>
-  <summary>
-    <h3>FAQ (Frequently Asked Questions)</h3>
-  </summary>
-  <h3>Q: Why is your name DarkMenacing?</h3>
-  <h2>R: It is my gamer tag.</h2>
-</details>
+<br/>
+
+#
+
+## Coding Activity
+<a><img align="left" src='https://github-readme-stats.vercel.app/api?username=dark-menacing&show_icons=true&theme=vue-dark'></a>
+<a>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-menacing&theme=vue-dark"></a>
