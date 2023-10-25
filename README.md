@@ -6,6 +6,7 @@ I am DarkMenacing, a front-end web developer. My current interests in technology
 ### Programming Languages
 
 <a href="https://www.w3schools.com/js/default.asp"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+<a href="https://www.lua.org"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" /></a>
 
 <br/>
 
@@ -33,6 +34,7 @@ I am DarkMenacing, a front-end web developer. My current interests in technology
 
 <a href="https://git-scm.com"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
 <a href="https://github.com"><img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
+<a href="https://www.mysql.com"><img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /></a>
 
 <br/>
 
