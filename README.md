@@ -1,5 +1,10 @@
-# Hi There 👋
-I am DarkMenacing, a front-end web developer. My current interests in technology is Data Science and Automation.
+<img src="./assets/borderseparator.gif">
+<div align="center">
+  <img src="./assets/animated_tree.gif" width="5.75%" align="left"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1385F7&center=true&vCenter=true&random=false&width=580&lines=Hi%2C+i'm+DarkMenacing+and+welcome+to+my+profile." alt="Typing SVG" align="middle"/></a>
+  <img src="./assets/animated_tree.gif" width="5.75%" align="right"/>
+</div>
+<img src="./assets/borderseparator.gif">
 
 ## Technical Skills
 
