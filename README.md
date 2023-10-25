@@ -21,9 +21,17 @@
 
 <a href="https://nodejs.org/en"><img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/></a>
 <a href="https://www.typescriptlang.org"><img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a>
-<a href="https://kit.svelte.dev"><img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/></a>
+<a href="https://kit.svelte.dev"><img align="left" alt="TypeScript" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/></a>
 
 <br/>
+
+#
+
+### Operational Systems
+
+<a href="https://www.microsoft.com/en-us/windows?r=1"><img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
+
+<br />
 
 #
 
@@ -35,11 +43,18 @@
 
 #
 
+### Databases
+
+<a href="https://www.mysql.com"><img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /></a>
+
+<br />
+
+#
+
 ### Others
 
 <a href="https://git-scm.com"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
 <a href="https://github.com"><img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
-<a href="https://www.mysql.com"><img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /></a>
 
 <br/>
 
