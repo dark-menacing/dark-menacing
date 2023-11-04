@@ -1,10 +1,10 @@
-<img src="./assets/borderseparator.gif">
+<img src="./assets/borderseparator.gif" width="100%">
 <div align="center">
   <img src="./assets/animated_tree.gif" width="5.75%" align="left"/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1385F7&center=true&vCenter=true&random=false&width=580&lines=Hi%2C+i'm+DarkMenacing+and+welcome+to+my+profile." alt="Typing SVG" align="middle"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1385F7&center=true&vCenter=true&random=false&width=580&lines=Hi%2C+i'm+DarkMenacing+and+welcome+to+my+profile." alt="Typing SVG" align="middle" width="75%"/></a>
   <img src="./assets/animated_tree.gif" width="5.75%" align="right"/>
 </div>
-<img src="./assets/borderseparator.gif">
+<img src="./assets/borderseparator.gif" width="100%">
 
 ## Technical Skills
 
@@ -21,7 +21,7 @@
 
 <a href="https://nodejs.org/en"><img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/></a>
 <a href="https://www.typescriptlang.org"><img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a>
-<a href="https://kit.svelte.dev"><img align="left" alt="TypeScript" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/></a>
+<a href="https://kit.svelte.dev"><img align="left" alt="Sveltekit" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/></a>
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 ### Operational Systems
 
-<a href="https://www.microsoft.com/en-us/windows?r=1"><img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
+<a href="https://www.microsoft.com/en-us/windows?r=1"><img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
 
 <br />
 
@@ -46,6 +46,7 @@
 ### Databases
 
 <a href="https://www.mysql.com"><img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /></a>
+<a href="https://firebase.google.com/"><img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a>
 
 <br />
 
