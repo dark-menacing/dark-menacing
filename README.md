@@ -5,7 +5,11 @@
   <img src="./assets/animated_tree.gif" width="5.75%" align="right"/>
 </div>
 <img src="./assets/borderseparator.gif" width="100%">
+# About me
 
+* I am currently learning **Spanish** 🇪🇸
+* My interests are in **CyberSecurity**
+ 
 ## Technical Skills
 
 ### Programming Languages
