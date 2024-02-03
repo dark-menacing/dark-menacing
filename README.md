@@ -7,7 +7,6 @@
 <img src="./assets/borderseparator.gif" width="100%">
 # About me
 
-* I am currently learning **Spanish** 🇪🇸
 * My interests are in **CyberSecurity**
  
 ## Technical Skills
