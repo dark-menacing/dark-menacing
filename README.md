@@ -5,6 +5,7 @@
   <img src="./assets/animated_tree.gif" width="5.75%" align="right"/>
 </div>
 <img src="./assets/borderseparator.gif" width="100%">
+
 # About me
 
 * My interests are in **CyberSecurity**
@@ -15,6 +16,15 @@
 
 <a href="https://www.w3schools.com/js/default.asp"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
 <a href="https://www.lua.org"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" /></a>
+
+<br/>
+
+#
+
+### Web Languages
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/></a>
 
 <br/>
 
@@ -48,7 +58,7 @@
 
 ### Databases
 
-<a href="https://www.mysql.com"><img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /></a>
+<a href="https://www.mysql.com"><img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>
 <a href="https://firebase.google.com/"><img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a>
 
 <br />
@@ -63,7 +73,3 @@
 <br/>
 
 #
-
-## Coding Activity
-<a><img align="left" src='https://github-readme-stats.vercel.app/api?username=dark-menacing&show_icons=true&theme=vue-dark'></a>
-<a>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-menacing&theme=vue-dark"></a>
