@@ -15,7 +15,6 @@
 ### Programming Languages
 
 <a href="https://www.w3schools.com/js/default.asp"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
-<a href="https://www.lua.org"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" /></a>
 
 <br/>
 
